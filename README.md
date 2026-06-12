@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# YalaByte
 
-# Run and deploy your AI Studio app
+YalaByte is a modern domestic courier and logistics website built for Yala Logistics Pvt. Ltd. The site presents courier services, business delivery solutions, service coverage, and customer-focused information in a clean and professional layout.
 
-This contains everything you need to run your app locally.
+## About
 
-View your app in AI Studio: https://ai.studio/apps/ed43f042-2048-4fc9-a996-1379f243855c
+This project is designed for a domestic courier business website with a refined, human-made look and feel. It focuses on clear communication, simple navigation, and practical service presentation without unnecessary clutter.
+
+## Features
+
+- Responsive website design
+- Courier and logistics service sections
+- Business-focused landing page structure
+- Clean UI with modern layout
+- Fast frontend performance
+- Easy-to-update content structure
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+Make sure Node.js is installed on your system.
 
+Install dependencies:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install

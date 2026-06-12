@@ -37,7 +37,7 @@ export const Footer: React.FC<FooterProps> = ({ id, onNavigate }) => {
               <Logo isDark={true} showText={true} />
             </motion.div>
             <p className="text-xs sm:text-sm text-slate-400 leading-relaxed max-w-xs">
-              Yala Group integrates software engineering services (YalaByte) with local transportation and shipping networks (Yala Logistics).
+              Yala Group integrates software engineering services (YalaByte) with International and National shipping networks (Yala Logistics).
             </p>
           </div>
 
